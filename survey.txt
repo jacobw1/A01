@@ -1,0 +1,23 @@
+CSC444 Data Visualization
+Assignment 1
+Jacob Williams
+
+1. I like to see data from different perspectives and I also need a 400 level course
+
+2. I think I will learn new libraries and applications that can help visualize Data
+
+3. python (3 years), Java (3 years), C (1 year)
+
+4. I have made simple html and css files for previous classes. I have used a database to store and read information in csc460
+
+5. In csc110 I remember creating a gerrymandering visual that takes a state name and creates multiple charts of every county and whether or not gerrymandering is present
+
+6. I once attempted to recreate a Pokedex by downloading all the information for each Pokemon. I had to deal with the name, stats, pictures, locations, biology, etc.
+
+7. I haven't really seen a lot of visualizations but I do like seeing path finding algorithms and the trails they leave.
+
+8. I think I see a lot of charts like we discussed in class that don't show the real proportions of the chart
+
+9. Maybe having small groups discuss inclass questions like zoom breakout rooms
+
+10. I recently found out that car batteries last 3-4 years and a new one costs more than $200 :(
